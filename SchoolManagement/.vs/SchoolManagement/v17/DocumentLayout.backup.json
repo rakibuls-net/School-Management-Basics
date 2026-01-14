@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{072E0786-1F10-4681-A30F-F26DFEFE76A6}|SchoolManagement.csproj|d:\\diploma in computer ai-usa\\vs_management\\schoolmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{072E0786-1F10-4681-A30F-F26DFEFE76A6}|SchoolManagement.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072E0786-1F10-4681-A30F-F26DFEFE76A6}|SchoolManagement.csproj|d:\\diploma in computer ai-usa\\vs_management\\schoolmanagement\\controllers\\resultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072E0786-1F10-4681-A30F-F26DFEFE76A6}|SchoolManagement.csproj|solutionrelative:controllers\\resultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072E0786-1F10-4681-A30F-F26DFEFE76A6}|SchoolManagement.csproj|d:\\diploma in computer ai-usa\\vs_management\\schoolmanagement\\views\\attendance\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{072E0786-1F10-4681-A30F-F26DFEFE76A6}|SchoolManagement.csproj|solutionrelative:views\\attendance\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072E0786-1F10-4681-A30F-F26DFEFE76A6}|SchoolManagement.csproj|d:\\diploma in computer ai-usa\\vs_management\\schoolmanagement\\views\\attendance\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{072E0786-1F10-4681-A30F-F26DFEFE76A6}|SchoolManagement.csproj|solutionrelative:views\\attendance\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072E0786-1F10-4681-A30F-F26DFEFE76A6}|SchoolManagement.csproj|d:\\diploma in computer ai-usa\\vs_management\\schoolmanagement\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072E0786-1F10-4681-A30F-F26DFEFE76A6}|SchoolManagement.csproj|solutionrelative:controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072E0786-1F10-4681-A30F-F26DFEFE76A6}|SchoolManagement.csproj|d:\\diploma in computer ai-usa\\vs_management\\schoolmanagement\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072E0786-1F10-4681-A30F-F26DFEFE76A6}|SchoolManagement.csproj|solutionrelative:models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072E0786-1F10-4681-A30F-F26DFEFE76A6}|SchoolManagement.csproj|d:\\diploma in computer ai-usa\\vs_management\\schoolmanagement\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072E0786-1F10-4681-A30F-F26DFEFE76A6}|SchoolManagement.csproj|solutionrelative:controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072E0786-1F10-4681-A30F-F26DFEFE76A6}|SchoolManagement.csproj|d:\\diploma in computer ai-usa\\vs_management\\schoolmanagement\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072E0786-1F10-4681-A30F-F26DFEFE76A6}|SchoolManagement.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072E0786-1F10-4681-A30F-F26DFEFE76A6}|SchoolManagement.csproj|d:\\diploma in computer ai-usa\\vs_management\\schoolmanagement\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072E0786-1F10-4681-A30F-F26DFEFE76A6}|SchoolManagement.csproj|solutionrelative:controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072E0786-1F10-4681-A30F-F26DFEFE76A6}|SchoolManagement.csproj|d:\\diploma in computer ai-usa\\vs_management\\schoolmanagement\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072E0786-1F10-4681-A30F-F26DFEFE76A6}|SchoolManagement.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072E0786-1F10-4681-A30F-F26DFEFE76A6}|SchoolManagement.csproj|d:\\diploma in computer ai-usa\\vs_management\\schoolmanagement\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{072E0786-1F10-4681-A30F-F26DFEFE76A6}|SchoolManagement.csproj|solutionrelative:views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072E0786-1F10-4681-A30F-F26DFEFE76A6}|SchoolManagement.csproj|d:\\diploma in computer ai-usa\\vs_management\\schoolmanagement\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{072E0786-1F10-4681-A30F-F26DFEFE76A6}|SchoolManagement.csproj|solutionrelative:views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072E0786-1F10-4681-A30F-F26DFEFE76A6}|SchoolManagement.csproj|d:\\diploma in computer ai-usa\\vs_management\\schoolmanagement\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072E0786-1F10-4681-A30F-F26DFEFE76A6}|SchoolManagement.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\Migrations\\20250509204311_InitCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250509204311_InitCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072E0786-1F10-4681-A30F-F26DFEFE76A6}|SchoolManagement.csproj|d:\\diploma in computer ai-usa\\vs_management\\schoolmanagement\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072E0786-1F10-4681-A30F-F26DFEFE76A6}|SchoolManagement.csproj|solutionrelative:models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072E0786-1F10-4681-A30F-F26DFEFE76A6}|SchoolManagement.csproj|d:\\diploma in computer ai-usa\\vs_management\\schoolmanagement\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072E0786-1F10-4681-A30F-F26DFEFE76A6}|SchoolManagement.csproj|solutionrelative:models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072E0786-1F10-4681-A30F-F26DFEFE76A6}|SchoolManagement.csproj|d:\\diploma in computer ai-usa\\vs_management\\schoolmanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072E0786-1F10-4681-A30F-F26DFEFE76A6}|SchoolManagement.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072E0786-1F10-4681-A30F-F26DFEFE76A6}|SchoolManagement.csproj|d:\\diploma in computer ai-usa\\vs_management\\schoolmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{072E0786-1F10-4681-A30F-F26DFEFE76A6}|SchoolManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResultController.cs",
+              "DocumentMoniker": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\Controllers\\ResultController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ResultController.cs",
+              "ToolTip": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\Controllers\\ResultController.cs",
+              "RelativeToolTip": "Controllers\\ResultController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T21:18:01.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\Views\\Attendance\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Attendance\\Edit.cshtml",
+              "ToolTip": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\Views\\Attendance\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Attendance\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T21:14:57.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\Views\\Attendance\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Attendance\\Create.cshtml",
+              "ToolTip": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\Views\\Attendance\\Create.cshtml",
+              "RelativeToolTip": "Views\\Attendance\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T21:14:39.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\Controllers\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AttendanceController.cs",
+              "ToolTip": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\Controllers\\AttendanceController.cs",
+              "RelativeToolTip": "Controllers\\AttendanceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T21:07:47.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Edit.cshtml",
+              "ToolTip": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T20:50:45.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Create.cshtml",
+              "ToolTip": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T20:50:33.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwC8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T20:45:09.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:36:52.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Result.cs",
+              "DocumentMoniker": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\Models\\Result.cs",
+              "RelativeDocumentMoniker": "Models\\Result.cs",
+              "ToolTip": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\Models\\Result.cs",
+              "RelativeToolTip": "Models\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:33:14.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\Models\\Attendance.cs",
+              "RelativeDocumentMoniker": "Models\\Attendance.cs",
+              "ToolTip": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\Models\\Attendance.cs",
+              "RelativeToolTip": "Models\\Attendance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:32:22.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "Models\\Subject.cs",
+              "ToolTip": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\Models\\Subject.cs",
+              "RelativeToolTip": "Models\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:31:42.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SubjectController.cs",
+              "DocumentMoniker": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\Controllers\\SubjectController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SubjectController.cs",
+              "ToolTip": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\Controllers\\SubjectController.cs",
+              "RelativeToolTip": "Controllers\\SubjectController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T21:03:57.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Models\\Teacher.cs",
+              "ToolTip": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\Models\\Teacher.cs",
+              "RelativeToolTip": "Models\\Teacher.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:30:48.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeacherController.cs",
+              "ToolTip": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "Controllers\\TeacherController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:57:20.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA2wCMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:26:31.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAADwv1kAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:44:55.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250509204311_InitCreate.cs",
+              "DocumentMoniker": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\Migrations\\20250509204311_InitCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250509204311_InitCreate.cs",
+              "ToolTip": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\Migrations\\20250509204311_InitCreate.cs",
+              "RelativeToolTip": "Migrations\\20250509204311_InitCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:43:11.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\SchoolManagement\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-09T20:28:31.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
